@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab_02_lib.a CMakeFiles/lab_02_lib.dir/src/seven.cpp.o
+/usr/bin/ranlib liblab_02_lib.a

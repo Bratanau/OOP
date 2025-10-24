@@ -1,0 +1,6 @@
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/lab_02_lib.dir
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/lab_02_exe.dir
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/tests.dir
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/test.dir
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/edit_cache.dir
+/home/lya/OOP_linux/lab_02/build/CMakeFiles/rebuild_cache.dir

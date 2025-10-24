@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/tests/test_seven.cpp.o -o tests  liblab_02_lib.a -lgtest_main 
